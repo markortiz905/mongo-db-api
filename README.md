@@ -1,5 +1,5 @@
-# Virus System API
-Develop a API to manage virus and its families.
+# Mongo DB API
+Develop a API to manage customers using MongoDB
 
 ## Technology Stack
 - Spring Boot 
