@@ -39,7 +39,8 @@ You may add environment specific config if needed e.g. application-prod.properti
 
 ## MongoDB Configuration
 You can use Compass to inspect changes in the mongodb
- - URI: mongodb+srv://marko:qYLaaIqDFgVPHi5r@cluster0.dd8bu.mongodb.net/kbdev?retryWrites=true&w=majority
+ - URI: mongodb+srv://<user>>:<pass>@cluster0.dd8bu.mongodb.net/kbdev?retryWrites=true&w=majority
+ - Request system owner for user and pass
  
 ## In case app did not stop force it
  - sudo lsof -i :8080
