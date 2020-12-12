@@ -37,12 +37,6 @@ talks to its corresponding repository to fetch data from db.
 You may check on application.properties file for the default application config.
 You may add environment specific config if needed e.g. application-prod.properties
 
-## API Documentation
-I have provided postman documentation, you may visit this link to view interactive API documentation of this project.
-The API doc also provides you ways to integrate using many other scripting/programming languages like curl,java,c#.
-https://documenter.getpostman.com/view/2693913/TVep87hc
-
-
 ## MongoDB Configuration
 You can use Compass to inspect changes in the mongodb
  - URI: mongodb+srv://marko:qYLaaIqDFgVPHi5r@cluster0.dd8bu.mongodb.net/kbdev?retryWrites=true&w=majority
