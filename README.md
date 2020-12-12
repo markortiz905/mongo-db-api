@@ -51,6 +51,11 @@ You can use Compass to inspect changes in the mongodb
  - sudo lsof -i :8080
  - kill -9 PID
 
+## Sample Requests
+
+ - New Customer POST http://localhost:8080/api/customer/create/firstName/Rechel%20Girl/lastName/Ortiz/dob/2019-06-22%2000:00:00/email/ortizmark905@gmail.com/gender/Female/address/One%20Oasis%20Condominium/city/Pasig%20City
+ - Find Customer by firstName GET http://localhost:8080/api/customer/search/firstName/Mark
+
 ## Authors
 - Mark Anthony Ortiz - ortizmark905@gmail.com
 
