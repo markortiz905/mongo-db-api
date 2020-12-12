@@ -52,6 +52,3 @@ You can use Compass to inspect changes in the mongodb
 
 ## Authors
 - Mark Anthony Ortiz - ortizmark905@gmail.com
-
-## Reference
-- https://github.com/markortiz905/virus-system-api
